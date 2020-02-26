@@ -1,3 +1,5 @@
-This is a project for learning GIT.
+# This is a project for learning GIT.
+
 The files are:
-- 
+* mars.txt
+* venus.txt 
